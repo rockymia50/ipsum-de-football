@@ -1,0 +1,14 @@
+module.exports = {
+    words: ["Linebacker", "32 teams", "American football", "line of scrimmage", "universal", "Andre Johnson is a tremendous talent", "shoulder pads", "cleats", "helmet", "run him over", "touchdown", "Super Bowl", "John Madden", Mutha$ucka",
+        "3rd down",
+        "Like I said last week linebackers set the tone, linebackers set the tempo, ain't nothing changed but the location", "4th down, move the chains", "Frozen Tundra", "compete on 3", "Defense", "playoffs", "Monday Night Football",
+        "We couldn't run the ball, we could pass the ball", "He is notorious for those fire zone defenses", "Tampa 2", "London Fletcher one of the best linebackers to pay the game", "you know when its time to hang up the cleats", "Ed Hochuli and those guns", "Undefeated Miami Dolphins of 1972", "1920", "1st pick of the draft", "In the trenches, you have to be tough", "its feast or famine out here", "New Orlean Saints", "destiny",
+        "LA Rams", "Dick LeBeau", "Runningback", "The Tennessee Titans", "Jerry Gray", "Redskins", "prowl", "assumption", "Mike Tirico", "Center", "Ray Lewis retires as one of the greatest",
+	    "Lorem ipsum dolor sit amet", "consectetur adipiscing elit", "Maecenas ipsum risus, pulvinar et est in, elementum auctor odio."," Morbi auctor lectus nisl, non hendrerit diam auctor rutrum." "Phasellus tempus pellentesque arcu, nec commodo nibh fermentum vitae."," Sed et risus varius", "convallis nibh quis"," viverra mi"," Sed interdum arcu sit amet dui ullamcorper luctus." "Vivamus dictum rutrum odio elementum fermentum." "Pellentesque pharetra neque sed tellus dapibus lobortis."Vivamus feugiat, purus eget fermentum finibus, arcu augue maximus nisi, sit amet malesuada lorem lectus sed lacus." "Suspendisse congue egestas accumsan", "Nunc eu nulla faucibus, pulvinar augue ut.", "convallis neque","Ut at sapien magna",
+        "Bear Bryant", "blitz", "This is 4th down territory", "Spider 2 Y Banana", "You never stay the same. You either get better or you get worse.", "The Frig", "Don Shula", "Ed Reed is a ballhawk out of the University of Miami", "Roughing the passer, 15yd penalty", "Patriots",
+        "Preseason", "Dan Synder", "Red Zone", "get it together", "Tony Dungy", "Bill Parcells", "NFC", "AFC", "James Brown", "That is a terrible play,that really chaps my",
+        "NFL", "form tackle", "Play 60", "Hershel Walker", "training camp", "long snapper did a great job", "RFK stadium", "Special teams", "gridiron", "flag", "owner", "Vince Lombardi",
+        "locker room", "The Buccaneers", "Tight end", "kickoff", "Redzone", "bless us", "Walter Payton", "week 15", "field goal","tackle him",
+        "The Commissioner", "Super Bowl", "Packers","The playing field is rectangle -- 360 feet in length and 160 feet in width -- a big rectangle."
+    ]
+}
